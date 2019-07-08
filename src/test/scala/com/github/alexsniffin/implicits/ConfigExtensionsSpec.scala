@@ -1,6 +1,6 @@
 package com.github.alexsniffin.implicits
 
-import com.github.alexsniffin.implicits.ConfigExtensions.OptionalConfig
+import com.github.alexsniffin.implicits.ConfigExtensions._
 import com.typesafe.config.{Config, ConfigFactory}
 import org.scalatest.{FlatSpec, GivenWhenThen}
 
